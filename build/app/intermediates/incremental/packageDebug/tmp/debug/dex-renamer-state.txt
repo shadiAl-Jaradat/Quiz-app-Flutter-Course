@@ -1,0 +1,4 @@
+#Sat Dec 03 13:20:21 EET 2022
+base.0=/Users/shady-jaradat/StudioProjects/quizapp_tf/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
